@@ -4,17 +4,20 @@
 - Email：kondo@ai.cs.ehime-u.ac.jp
 
 ### 研究業績
-- 近藤里咲, 大塚琢生, 梶原智之, 二宮崇, 早志英朗, 中島悠太, 長原一. <br>
-大規模言語モデルによる日本語感情分析の性能評価. <br>
-情報処理学会第86回全国大会, March 2024. (to appear)
 
+#### 論文誌
 - 近藤里咲, 梶川怜恩, 梶原智之, 二宮崇. <br>
 スタイル変換による雑談対話へのキャラクタ性の付与. <br>
 情報処理学会論文誌, Vol.65, No.3, pp.xxx-xxx, March 2024. (to appear)
 
+#### 国内会議
+- 近藤里咲, 大塚琢生, 梶原智之, 二宮崇, 早志英朗, 中島悠太, 長原一. <br>
+大規模言語モデルによる日本語感情分析の性能評価. <br>
+情報処理学会第86回全国大会, pp.xxx-xxx, March 2024. (to appear)
+
 - 近藤 里咲, 梶川 怜恩, 梶原 智之, 二宮 崇. <br>
 スタイル変換による雑談対話システムへのキャラクタ性の付与. <br>
-第22回情報科学技術フォーラム（FIT2023）, September 2023. \[[PDF](https://moguranosenshi.sakura.ne.jp/publications/fit2023-kondo.pdf)\]
+第22回情報科学技術フォーラム（FIT2023）, pp.341-346, September 2023. \[[PDF](https://moguranosenshi.sakura.ne.jp/publications/fit2023-kondo.pdf)\]
 
 - 近藤 里咲, 梶川 怜恩, 梶原 智之, 二宮 崇. <br>
 雑談対話にキャラクタ性を付与するためのスタイル変換. <br>
