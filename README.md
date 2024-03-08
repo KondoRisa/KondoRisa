@@ -15,6 +15,10 @@
 大規模言語モデルによる日本語感情分析の性能評価. <br>
 情報処理学会第86回全国大会, pp.xxx-xxx, March 2024. (to appear)
 
+- 近藤里咲, 梶原智之, 二宮崇. <br>
+JParaCrawl からの大規模日本語言い換え辞書の構築. <br>
+言語処理学会第30回年次大会, pp.1736-1740, March 2024. \[[PDF](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P6-20.pdf)\]
+
 - 近藤 里咲, 梶川 怜恩, 梶原 智之, 二宮 崇. <br>
 スタイル変換による雑談対話システムへのキャラクタ性の付与. <br>
 第22回情報科学技術フォーラム（FIT2023）, pp.341-346, September 2023. \[[PDF](https://moguranosenshi.sakura.ne.jp/publications/fit2023-kondo.pdf)\]
