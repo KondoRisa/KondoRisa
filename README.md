@@ -8,12 +8,16 @@
 #### 論文誌
 - 近藤里咲, 梶川怜恩, 梶原智之, 二宮崇. <br>
 スタイル変換による雑談対話へのキャラクタ性の付与. <br>
-情報処理学会論文誌, Vol.65, No.3, pp.657-666, March 2024. \[[PDF](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=233361&item_no=1&page_id=13&block_id=8)\]
+情報処理学会論文誌, Vol.65, No.3, pp.657-666, May 2024. \[[PDF](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=233361&item_no=1&page_id=13&block_id=8)\]
 
 #### 国内会議
+- 近藤里咲, 寺面杏優, 梶川怜恩, 堀口航輝, 梶原智之, 二宮崇, 早志英朗, 中島悠太2, 長原一. <br>
+テキスト正規化による日本語感情分析の性能改善. <br>
+2024年度人工知能学会全国大会（JSAI2024）, pp.xxx-xxx, March 2024. (to appear)
+
 - 近藤里咲, 大塚琢生, 梶原智之, 二宮崇, 早志英朗, 中島悠太, 長原一. <br>
 大規模言語モデルによる日本語感情分析の性能評価. <br>
-情報処理学会第86回全国大会, pp.859-860, March 2024. (to appear)
+情報処理学会第86回全国大会, pp.859-860, March 2024. \[[PDF](https://moguranosenshi.sakura.ne.jp/publications/ipsj86-kondo.pdf)\] \[[Slides](https://drive.google.com/file/d/18sYuJMedTODnHz8FiARNKN5wUHbNzBwE/view?usp=sharing)\]
 
 - 近藤里咲, 梶原智之, 二宮崇. <br>
 JParaCrawl からの大規模日本語言い換え辞書の構築. <br>
