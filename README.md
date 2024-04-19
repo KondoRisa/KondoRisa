@@ -8,7 +8,7 @@
 #### 論文誌
 - 近藤 里咲, 梶川 怜恩, 梶原 智之, 二宮 崇. <br>
 スタイル変換による雑談対話へのキャラクタ性の付与. <br>
-情報処理学会論文誌, Vol.65, No.3, pp.657-666, May 2024. \[[PDF](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=233361&item_no=1&page_id=13&block_id=8)\]
+情報処理学会論文誌, Vol.65, No.3, pp.657-666, March 2024. \[[PDF](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=233361&item_no=1&page_id=13&block_id=8)\]
 
 #### 国内会議
 - 近藤 里咲, 寺面 杏優, 梶川 怜恩, 堀口 航輝, 梶原 智之, 二宮 崇, 早志 英朗, 中島 悠太, 長原 一. <br>
