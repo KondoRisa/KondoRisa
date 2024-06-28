@@ -10,7 +10,7 @@
 スタイル変換による雑談対話へのキャラクタ性の付与. <br>
 情報処理学会論文誌, Vol.65, No.3, pp.657-666, March 2024. \[[PDF](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=233361&item_no=1&page_id=13&block_id=8)\]
 
-#### 国際学会
+#### 国際会議
 - 寺面 杏優, 大塚 琢生, 近藤 里咲, 梶原 智之, 二宮 崇. <br>
 English-to-Japanese Multimodal Machine Translation Based on Image-Text Matching of Lecture Videos. <br>
 3rd Workshop on Advances in Language and Vision Research (ALVR), August 2024. (to appear)
