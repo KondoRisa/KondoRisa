@@ -18,7 +18,7 @@ English-to-Japanese Multimodal Machine Translation Based on Image-Text Matching 
 #### 国内会議
 - 近藤 里咲, 寺面 杏優, 梶川 怜恩, 堀口 航輝, 梶原 智之, 二宮 崇, 早志 英朗, 中島 悠太, 長原 一. <br>
 テキスト正規化による日本語感情分析の性能改善. <br>
-人工知能学会第38回全国大会（JSAI2024）, 4Xin2-12, May 2024. \[[PDF](https://doi.org/10.11517/pjsai.JSAI2024.0_4Xin212)\]
+人工知能学会第38回全国大会（JSAI2024）, 4Xin2-12, May 2024. \[[PDF](https://doi.org/10.11517/pjsai.JSAI2024.0_4Xin212)\]\[[Poster](https://drive.google.com/file/d/1HQfg9JwvTXftRMp80hXraas1YMwSWYHo/view?usp=sharing)\]
 
 - 近藤 里咲, 大塚 琢生, 梶原 智之, 二宮 崇, 早志 英朗, 中島 悠太, 長原 一. <br>
 大規模言語モデルによる日本語感情分析の性能評価. <br>
@@ -26,7 +26,7 @@ English-to-Japanese Multimodal Machine Translation Based on Image-Text Matching 
 
 - 近藤 里咲, 梶原 智之, 二宮 崇. <br>
 JParaCrawl からの大規模日本語言い換え辞書の構築. <br>
-言語処理学会第30回年次大会, pp.1736-1740, March 2024. \[[PDF](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P6-20.pdf)\] \[[Poster](https://drive.google.com/file/d/1HQfg9JwvTXftRMp80hXraas1YMwSWYHo/view?usp=sharing)\]
+言語処理学会第30回年次大会, pp.1736-1740, March 2024. \[[PDF](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P6-20.pdf)\] 
 
 - 寺面杏優, 近藤里咲, 梶原智之, 二宮崇.  
 講演動画の言語横断字幕生成のための英日マルチモーダル対訳コーパスの構築.  
