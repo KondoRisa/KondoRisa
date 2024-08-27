@@ -13,7 +13,7 @@
 #### 国際会議
 - 寺面 杏優, 大塚 琢生, 近藤 里咲, 梶原 智之, 二宮 崇. <br>
 English-to-Japanese Multimodal Machine Translation Based on Image-Text Matching of Lecture Videos. <br>
-3rd Workshop on Advances in Language and Vision Research (ALVR), August 2024. (to appear)
+3rd Workshop on Advances in Language and Vision Research (ALVR), August 2024. \[[PDF](https://aclanthology.org/2024.alvr-1.7.pdf)\]
 
 #### 国内会議
 - 近藤 里咲, 寺面 杏優, 梶川 怜恩, 堀口 航輝, 梶原 智之, 二宮 崇, 早志 英朗, 中島 悠太, 長原 一. <br>
@@ -30,7 +30,7 @@ JParaCrawl からの大規模日本語言い換え辞書の構築. <br>
 
 - 寺面杏優, 近藤里咲, 梶原智之, 二宮崇.  
 講演動画の言語横断字幕生成のための英日マルチモーダル対訳コーパスの構築.  
-言語処理学会第30回年次大会, pp.2002-2006, March 2024. \[[pdf](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P7-11.pdf)\] 
+言語処理学会第30回年次大会, pp.2002-2006, March 2024. \[[PDF](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P7-11.pdf)\] 
 
 - 近藤 里咲, 梶川 怜恩, 梶原 智之, 二宮 崇. <br>
 スタイル変換による雑談対話システムへのキャラクタ性の付与. <br>
