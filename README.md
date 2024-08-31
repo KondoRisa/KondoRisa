@@ -16,6 +16,10 @@ English-to-Japanese Multimodal Machine Translation Based on Image-Text Matching 
 3rd Workshop on Advances in Language and Vision Research (ALVR), August 2024. \[[PDF](https://aclanthology.org/2024.alvr-1.7.pdf)\]
 
 #### 国内会議
+- 近藤 里咲, 梶原 智之, 二宮 崇. <br>
+ニューラル単語アライメントによる言い換え辞書の改善. <br>
+NLP若手の会第19回シンポジウム（YANS2024）, September 2024. 
+
 - 近藤 里咲, 寺面 杏優, 梶川 怜恩, 堀口 航輝, 梶原 智之, 二宮 崇, 早志 英朗, 中島 悠太, 長原 一. <br>
 テキスト正規化による日本語感情分析の性能改善. <br>
 人工知能学会第38回全国大会（JSAI2024）, 4Xin2-12, May 2024. \[[PDF](https://doi.org/10.11517/pjsai.JSAI2024.0_4Xin212)\] \[[Poster](https://drive.google.com/file/d/1HQfg9JwvTXftRMp80hXraas1YMwSWYHo/view?usp=sharing)\]
