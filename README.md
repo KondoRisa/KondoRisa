@@ -18,7 +18,11 @@ English-to-Japanese Multimodal Machine Translation Based on Image-Text Matching 
 #### 国内会議
 - 近藤 里咲, 梶原 智之, 二宮 崇. <br>
 ニューラル単語アライメントによる言い換え辞書の改善. <br>
-NLP若手の会第19回シンポジウム（YANS2024）, September 2024. 
+NLP若手の会第19回シンポジウム（YANS2024）, September 2024.
+
+- 杉山 誠治, 近藤 里咲, 梶原 智之, 二宮 崇. <br>
+商品検索のための追加事前学習としての言い換えに基づく対照学習. <br>
+NLP若手の会第19回シンポジウム (YANS2024), September 2024.
 
 - 近藤 里咲, 寺面 杏優, 梶川 怜恩, 堀口 航輝, 梶原 智之, 二宮 崇, 早志 英朗, 中島 悠太, 長原 一. <br>
 テキスト正規化による日本語感情分析の性能改善. <br>
