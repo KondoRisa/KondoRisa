@@ -18,7 +18,7 @@ English-to-Japanese Multimodal Machine Translation Based on Image-Text Matching 
 #### 国内会議
 - 近藤 里咲, 梶原 智之, 二宮 崇. <br>
 ニューラル単語アライメントによる言い換え辞書の改善. <br>
-NLP若手の会第19回シンポジウム（YANS2024）, September 2024.
+NLP若手の会第19回シンポジウム (YANS2024), September 2024.
 
 - 杉山 誠治, 近藤 里咲, 梶原 智之, 二宮 崇. <br>
 商品検索のための追加事前学習としての言い換えに基づく対照学習. <br>
@@ -26,7 +26,7 @@ NLP若手の会第19回シンポジウム (YANS2024), September 2024.
 
 - 近藤 里咲, 寺面 杏優, 梶川 怜恩, 堀口 航輝, 梶原 智之, 二宮 崇, 早志 英朗, 中島 悠太, 長原 一. <br>
 テキスト正規化による日本語感情分析の性能改善. <br>
-人工知能学会第38回全国大会（JSAI2024）, 4Xin2-12, May 2024. \[[PDF](https://doi.org/10.11517/pjsai.JSAI2024.0_4Xin212)\] \[[Poster](https://drive.google.com/file/d/1HQfg9JwvTXftRMp80hXraas1YMwSWYHo/view?usp=sharing)\]
+人工知能学会第38回全国大会 (JSAI2024), 4Xin2-12, May 2024. \[[PDF](https://doi.org/10.11517/pjsai.JSAI2024.0_4Xin212)\] \[[Poster](https://drive.google.com/file/d/1HQfg9JwvTXftRMp80hXraas1YMwSWYHo/view?usp=sharing)\]
 
 - 近藤 里咲, 大塚 琢生, 梶原 智之, 二宮 崇, 早志 英朗, 中島 悠太, 長原 一. <br>
 大規模言語モデルによる日本語感情分析の性能評価. <br>
@@ -42,22 +42,27 @@ JParaCrawl からの大規模日本語言い換え辞書の構築. <br>
 
 - 近藤 里咲, 梶川 怜恩, 梶原 智之, 二宮 崇. <br>
 スタイル変換による雑談対話システムへのキャラクタ性の付与. <br>
-第22回情報科学技術フォーラム（FIT2023）, pp.341-346, September 2023. \[[PDF](https://moguranosenshi.sakura.ne.jp/publications/fit2023-kondo.pdf)\]
+第22回情報科学技術フォーラム (FIT2023), pp.341-346, September 2023. \[[PDF](https://moguranosenshi.sakura.ne.jp/publications/fit2023-kondo.pdf)\]
 
 - 近藤 里咲, 梶川 怜恩, 梶原 智之, 二宮 崇. <br>
 雑談対話にキャラクタ性を付与するためのスタイル変換. <br>
-NLP若手の会第18回シンポジウム（YANS2023）, August 2023. \[[Poster](http://moguranosenshi.sakura.ne.jp/files/yans2023-kondo.pdf)\]
+NLP若手の会第18回シンポジウム (YANS2023), August 2023. \[[Poster](http://moguranosenshi.sakura.ne.jp/files/yans2023-kondo.pdf)\]
 
 ### 受賞
+- 人工知能学会第38回全国大会 (JSAI2024) 全国大会優秀賞
+  > 近藤 里咲, 寺面 杏優, 梶川 怜恩, 堀口 航輝, 梶原 智之, 二宮 崇, 早志 英朗, 中島 悠太, 長原 一. <br>
+  > テキスト正規化による日本語感情分析の性能改善. <br>
+  > 人工知能学会第38回全国大会 (JSAI2024), 4Xin2-12, May 2024.
+
 - 情報処理学会第86回全国大会 学生奨励賞
   > 近藤 里咲, 大塚 琢生, 梶原 智之, 二宮 崇, 早志 英朗, 中島 悠太, 長原 一. <br>
   > 大規模言語モデルによる日本語感情分析の性能評価. <br>
   > 情報処理学会第86回全国大会, pp.859-860, March 2024.
   
-- NLP若手の会第18回シンポジウム(YANS2023) 奨励賞
+- NLP若手の会第18回シンポジウム (YANS2023) 奨励賞
   > 近藤 里咲, 梶川 怜恩, 梶原 智之, 二宮 崇. <br>
   > 雑談対話にキャラクタ性を付与するためのスタイル変換. <br>
-  > NLP若手の会第18回シンポジウム（YANS2023）, August 2023.
+  > NLP若手の会第18回シンポジウム (YANS2023), August 2023.
 
 - 2022年度 3年次成績最優秀学生 <!--（コンピュータ科学コースから1名）-->
 - 2021年度 1-2年次成績優秀学生 <!--（コンピュータ科学コースから3名）-->
