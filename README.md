@@ -16,9 +16,18 @@ English-to-Japanese Multimodal Machine Translation Based on Image-Text Matching 
 3rd Workshop on Advances in Language and Vision Research (ALVR), August 2024. \[[PDF](https://aclanthology.org/2024.alvr-1.7.pdf)\]
 
 #### 国内会議
+
+- 近藤 里咲, 梶原 智之, 二宮 崇. <br>
+ニューラル単語アライメントに基づく言い換え知識獲得. <br>
+言語処理学会第31回年次大会, pp.xxx-xxx, March 2025. (to appear)
+
+- 杉山 誠治, 近藤 里咲, 梶原 智之, 二宮 崇. <br>
+文対モデリングのための言い換えに基づく対照学習. <br>
+言語処理学会第31回年次大会, pp.xxx-xxx, March 2025. (to appear)
+
 - 近藤 里咲, 梶原 智之, 二宮 崇. <br>
 ニューラル単語アライメントによる言い換え辞書の改善. <br>
-NLP若手の会第19回シンポジウム (YANS2024), September 2024.
+NLP若手の会第19回シンポジウム (YANS2024), September 2024. \[[Poster](https://drive.google.com/file/d/1s9pESV7o5979wVf5hjROj-7NKniSDJRM/view?usp=sharing)\]
 
 - 杉山 誠治, 近藤 里咲, 梶原 智之, 二宮 崇. <br>
 商品検索のための追加事前学習としての言い換えに基づく対照学習. <br>
