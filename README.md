@@ -19,11 +19,11 @@ English-to-Japanese Multimodal Machine Translation Based on Image-Text Matching 
 
 - 近藤 里咲, 梶原 智之, 二宮 崇. <br>
 ニューラル単語アライメントに基づく言い換え知識獲得. <br>
-言語処理学会第31回年次大会, pp.xxx-xxx, March 2025. (to appear)
+言語処理学会第31回年次大会, pp.1488-1492, March 2025. \[[PDF](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P4-3.pdf)\]
 
 - 杉山 誠治, 近藤 里咲, 梶原 智之, 二宮 崇. <br>
 文対モデリングのための言い換えに基づく対照学習. <br>
-言語処理学会第31回年次大会, pp.xxx-xxx, March 2025. (to appear)
+言語処理学会第31回年次大会, pp.3238-3242, March 2025. \[[PDF](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P8-7.pdf)\]
 
 - 近藤 里咲, 梶原 智之, 二宮 崇. <br>
 ニューラル単語アライメントによる言い換え辞書の改善. <br>
