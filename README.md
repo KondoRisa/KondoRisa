@@ -15,6 +15,10 @@
 Text Normalization for Japanese Sentiment Analysis. <br>
 In Proceedings of the 10th Workshop on Noisy and User-generated Text (W-NUT 2025), pp.xxx-xxx, New Mexico, USA, May 2025. (to appear)
 
+- Seiji Sugiyama, Risa Kondo, Tomoyuki Kajiwara, Takashi Ninomiya. <br>
+Paraphrase-based Contrastive Learning for Sentence Pair Modeling. <br>
+In Proceedings of the NAACL 2025 Student Research Workshop (NAACL 2025 SRW), pp.xxx-xxx, New Mexico, USA, May 2025. (to appear)
+
 - Ayu Teramen, Takumi Ohtsuka, Risa Kondo, Tomoyuki Kajiwara, Takashi Ninomiya. <br>
 English-to-Japanese Multimodal Machine Translation Based on Image-Text Matching of Lecture Videos. <br>
 In Proceedings of the 3rd Workshop on Advances in Language and Vision Research (ALVR 2024), pp.86-91, Bangkok, Thailand, August 2024. \[[PDF](https://aclanthology.org/2024.alvr-1.7.pdf)\]
