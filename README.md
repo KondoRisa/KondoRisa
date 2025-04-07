@@ -1,6 +1,6 @@
 ### プロフィール
 - 名前：近藤 里咲（Kondo Risa）
-- 所属：愛媛大学大学院 理工学研究科 [人工知能研究室](https://sites.google.com/view/ehime-nlp/) M1
+- 所属：愛媛大学大学院 理工学研究科 [人工知能研究室](https://sites.google.com/view/ehime-nlp/) M2
 - Email：kondo@ai.cs.ehime-u.ac.jp
 
 ### 研究業績
