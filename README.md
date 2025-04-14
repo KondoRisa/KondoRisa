@@ -12,7 +12,7 @@
 
 #### 国際会議
 - Risa Kondo, Ayu Teramen, Reon Kajikawa, Koki Horiguchi, Tomoyuki Kajiwara, Takashi Ninomiya, Hideaki Hayashi, Yuta Nakashima, Hajime Nagahara. <br>
-Text Normalization for Japanese Sentiment Analysis. <br>
+Text Normalization for Sentiment Analysis in Japanese Social Media. <br>
 In Proceedings of the 10th Workshop on Noisy and User-generated Text (W-NUT 2025), pp.xxx-xxx, New Mexico, USA, May 2025. (to appear)
 
 - Seiji Sugiyama, Risa Kondo, Tomoyuki Kajiwara, Takashi Ninomiya. <br>
