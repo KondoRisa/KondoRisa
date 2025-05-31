@@ -13,11 +13,11 @@
 #### 国際会議
 - Risa Kondo, Ayu Teramen, Reon Kajikawa, Koki Horiguchi, Tomoyuki Kajiwara, Takashi Ninomiya, Hideaki Hayashi, Yuta Nakashima, Hajime Nagahara. <br>
 Text Normalization for Sentiment Analysis in Japanese Social Media. <br>
-In Proceedings of the 10th Workshop on Noisy and User-generated Text (W-NUT 2025), pp.xxx-xxx, New Mexico, USA, May 2025. (to appear)
+In Proceedings of the 10th Workshop on Noisy and User-generated Text (W-NUT 2025), pp.xxx-xxx, New Mexico, USA, May 2025. \[[PDF](https://aclanthology.org/2025.wnut-1.16.pdf)\]
 
 - Seiji Sugiyama, Risa Kondo, Tomoyuki Kajiwara, Takashi Ninomiya. <br>
 Paraphrase-based Contrastive Learning for Sentence Pair Modeling. <br>
-In Proceedings of the NAACL 2025 Student Research Workshop (NAACL 2025 SRW), pp.xxx-xxx, New Mexico, USA, May 2025. (to appear)
+In Proceedings of the NAACL 2025 Student Research Workshop (NAACL 2025 SRW), pp.xxx-xxx, New Mexico, USA, May 2025. \[[PDF](https://aclanthology.org/2025.naacl-srw.39.pdf)\]
 
 - Ayu Teramen, Takumi Ohtsuka, Risa Kondo, Tomoyuki Kajiwara, Takashi Ninomiya. <br>
 English-to-Japanese Multimodal Machine Translation Based on Image-Text Matching of Lecture Videos. <br>
