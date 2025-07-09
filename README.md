@@ -13,17 +13,20 @@
 #### 国際会議
 - Risa Kondo, Ayu Teramen, Reon Kajikawa, Koki Horiguchi, Tomoyuki Kajiwara, Takashi Ninomiya, Hideaki Hayashi, Yuta Nakashima, Hajime Nagahara. <br>
 Text Normalization for Sentiment Analysis in Japanese Social Media. <br>
-In Proceedings of the 10th Workshop on Noisy and User-generated Text (W-NUT 2025), pp.xxx-xxx, New Mexico, USA, May 2025. \[[PDF](https://aclanthology.org/2025.wnut-1.16.pdf)\]
+In Proceedings of the 10th Workshop on Noisy and User-generated Text (W-NUT 2025), pp.149–157, New Mexico, USA, May 2025. \[[PDF](https://aclanthology.org/2025.wnut-1.16.pdf)\]
 
 - Seiji Sugiyama, Risa Kondo, Tomoyuki Kajiwara, Takashi Ninomiya. <br>
 Paraphrase-based Contrastive Learning for Sentence Pair Modeling. <br>
-In Proceedings of the NAACL 2025 Student Research Workshop (NAACL 2025 SRW), pp.xxx-xxx, New Mexico, USA, May 2025. \[[PDF](https://aclanthology.org/2025.naacl-srw.39.pdf)\]
+In Proceedings of the NAACL 2025 Student Research Workshop (NAACL 2025 SRW), pp.400–407, New Mexico, USA, May 2025. \[[PDF](https://aclanthology.org/2025.naacl-srw.39.pdf)\]
 
 - Ayu Teramen, Takumi Ohtsuka, Risa Kondo, Tomoyuki Kajiwara, Takashi Ninomiya. <br>
 English-to-Japanese Multimodal Machine Translation Based on Image-Text Matching of Lecture Videos. <br>
 In Proceedings of the 3rd Workshop on Advances in Language and Vision Research (ALVR 2024), pp.86-91, Bangkok, Thailand, August 2024. \[[PDF](https://aclanthology.org/2024.alvr-1.7.pdf)\]
 
 #### 国内会議
+- 藤原 有希, 横山 泰知, 大政 裕哉, 近藤 里咲, 梶原 智之, 二宮 崇, 後藤 功雄. <br>
+台本なしテレビ番組の音声データを用いた自動台本生成. <br>
+情報処理学会第86回全国大会, pp.683-684, March 2025. \[[PDF](https://moguranosenshi.sakura.ne.jp/publications/ipsj87-fujiwara.pdf)\]
 
 - 近藤 里咲, 梶原 智之, 二宮 崇. <br>
 ニューラル単語アライメントに基づく言い換え知識獲得. <br>
