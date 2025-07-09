@@ -24,6 +24,10 @@ English-to-Japanese Multimodal Machine Translation Based on Image-Text Matching 
 In Proceedings of the 3rd Workshop on Advances in Language and Vision Research (ALVR 2024), pp.86-91, Bangkok, Thailand, August 2024. \[[PDF](https://aclanthology.org/2024.alvr-1.7.pdf)\]
 
 #### 国内会議
+- 近藤 里咲, 寺面 杏優, 堀口 航輝, 梶川 怜恩, 鈴木 陽也, 宮内 裕人, 山内 洋輝, 秋山 和輝, 梶原 智之, 二宮 崇, Chenhui Chu, 武村 紀子, 早志 英朗, 中島 悠太, 長原 一. <br>
+日本語SNSのためのテキスト正規化および感情分析のデータセット. <br>
+第24回情報科学技術フォーラム (FIT2025), pp.xxx-xxx, September 2025. (to appear)
+
 - 藤原 有希, 横山 泰知, 大政 裕哉, 近藤 里咲, 梶原 智之, 二宮 崇, 後藤 功雄. <br>
 台本なしテレビ番組の音声データを用いた自動台本生成. <br>
 情報処理学会第86回全国大会, pp.683-684, March 2025. \[[PDF](https://moguranosenshi.sakura.ne.jp/publications/ipsj87-fujiwara.pdf)\]
