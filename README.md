@@ -26,7 +26,7 @@ In Proceedings of the 3rd Workshop on Advances in Language and Vision Research (
 #### 国内会議
 - 近藤 里咲, 寺面 杏優, 堀口 航輝, 梶川 怜恩, 鈴木 陽也, 宮内 裕人, 山内 洋輝, 秋山 和輝, 梶原 智之, 二宮 崇, Chenhui Chu, 武村 紀子, 早志 英朗, 中島 悠太, 長原 一. <br>
 日本語SNSのためのテキスト正規化および感情分析のデータセット. <br>
-第24回情報科学技術フォーラム (FIT2025), pp.xxx-xxx, September 2025. (to appear)
+第24回情報科学技術フォーラム (FIT2025), pp.277-284, September 2025. \[[PDF](https://moguranosenshi.sakura.ne.jp/publications/fit2025-kondo.pdf)\]
 
 - 藤原 有希, 横山 泰知, 大政 裕哉, 近藤 里咲, 梶原 智之, 二宮 崇, 後藤 功雄. <br>
 台本なしテレビ番組の音声データを用いた自動台本生成. <br>
@@ -73,6 +73,11 @@ JParaCrawl からの大規模日本語言い換え辞書の構築. <br>
 NLP若手の会第18回シンポジウム (YANS2023), August 2023. \[[Poster](http://moguranosenshi.sakura.ne.jp/files/yans2023-kondo.pdf)\]
 
 ### 受賞
+- 第24回情報科学技術フォーラム (FIT2025) FIT奨励賞
+  > 近藤 里咲, 寺面 杏優, 堀口 航輝, 梶川 怜恩, 鈴木 陽也, 宮内 裕人, 山内 洋輝, 秋山 和輝, 梶原 智之, 二宮 崇, Chenhui Chu, 武村 紀子, 早志 英朗, 中島 悠太, 長原 一. <br>
+  > 日本語SNSのためのテキスト正規化および感情分析のデータセット. <br>
+  > 第24回情報科学技術フォーラム (FIT2025), pp.277-284, September 2025. 
+
 - 人工知能学会第38回全国大会 (JSAI2024) 全国大会優秀賞
   > 近藤 里咲, 寺面 杏優, 梶川 怜恩, 堀口 航輝, 梶原 智之, 二宮 崇, 早志 英朗, 中島 悠太, 長原 一. <br>
   > テキスト正規化による日本語感情分析の性能改善. <br>
