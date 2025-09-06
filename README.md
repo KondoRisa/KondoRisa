@@ -11,6 +11,10 @@
 情報処理学会論文誌, Vol.65, No.3, pp.657-666, March 2024. \[[PDF](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=233361&item_no=1&page_id=13&block_id=8)\]
 
 #### 国際会議
+- Risa Kondo, Hiroki Yamauchi, Tomoyuki Kajiwara, Marie Katsurai and Takashi Ninomiya. <br>
+  Domain Knowledge Distillation for Multilingual Sentence Encoders in Cross-lingual Sentence Similarity Estimation
+  In Proceedings of the 15th International Conference on Recent Advances in Natural Language Processing (RANLP 2025), pp.xxx–xxx, Varna, Bulgaria, September 2025. (to appear)
+  
 - Risa Kondo, Ayu Teramen, Reon Kajikawa, Koki Horiguchi, Tomoyuki Kajiwara, Takashi Ninomiya, Hideaki Hayashi, Yuta Nakashima, Hajime Nagahara. <br>
 Text Normalization for Sentiment Analysis in Japanese Social Media. <br>
 In Proceedings of the 10th Workshop on Noisy and User-generated Text (W-NUT 2025), pp.149–157, New Mexico, USA, May 2025. \[[PDF](https://aclanthology.org/2025.wnut-1.16.pdf)\]
