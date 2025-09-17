@@ -28,6 +28,14 @@ English-to-Japanese Multimodal Machine Translation Based on Image-Text Matching 
 In Proceedings of the 3rd Workshop on Advances in Language and Vision Research (ALVR 2024), pp.86-91, Bangkok, Thailand, August 2024. \[[PDF](https://aclanthology.org/2024.alvr-1.7.pdf)\]
 
 #### 国内会議
+- 近藤 里咲, 梶原 智之. <br>
+スタイル表現学習のための意味とスタイルの分離. <br>
+NLP若手の会第20回シンポジウム (YANS2025), September 2025.
+
+- 野々村 奏, 近藤 里咲, 梶原 智之. <br>
+多言語文埋め込みの意味要素と言語要素の分離に関する調査. <br>
+NLP若手の会第20回シンポジウム (YANS2025), September 2025.
+
 - 近藤 里咲, 寺面 杏優, 堀口 航輝, 梶川 怜恩, 鈴木 陽也, 宮内 裕人, 山内 洋輝, 秋山 和輝, 梶原 智之, 二宮 崇, Chenhui Chu, 武村 紀子, 早志 英朗, 中島 悠太, 長原 一. <br>
 日本語SNSのためのテキスト正規化および感情分析のデータセット. <br>
 第24回情報科学技術フォーラム (FIT2025), pp.277-284, September 2025. \[[PDF](https://moguranosenshi.sakura.ne.jp/publications/fit2025-kondo.pdf)\]
