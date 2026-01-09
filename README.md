@@ -12,8 +12,9 @@
 
 #### 国際会議
 - Risa Kondo, Hiroki Yamauchi, Tomoyuki Kajiwara, Marie Katsurai and Takashi Ninomiya. <br>
-  Domain Knowledge Distillation for Multilingual Sentence Encoders in Cross-lingual Sentence Similarity Estimation
-  In Proceedings of the 15th International Conference on Recent Advances in Natural Language Processing (RANLP 2025), pp.xxx–xxx, Varna, Bulgaria, September 2025. (to appear)
+  Domain Knowledge Distillation for Multilingual Sentence Encoders in Cross-lingual Sentence Similarity Estimation. <br>
+  In Proceedings of the 15th International Conference on Recent Advances in Natural Language Processing (RANLP 2025), pp.572–577, Varna, Bulgaria, September 2025. \[[PDF](https://acl-bg.org/proceedings/2025/RANLP%202025/pdf/2025.ranlp-1.67.pdf)\]
+  
   
 - Risa Kondo, Ayu Teramen, Reon Kajikawa, Koki Horiguchi, Tomoyuki Kajiwara, Takashi Ninomiya, Hideaki Hayashi, Yuta Nakashima, Hajime Nagahara. <br>
 Text Normalization for Sentiment Analysis in Japanese Social Media. <br>
