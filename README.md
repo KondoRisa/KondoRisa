@@ -11,10 +11,13 @@
 情報処理学会論文誌, Vol.65, No.3, pp.657-666, March 2024. \[[PDF](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=233361&item_no=1&page_id=13&block_id=8)\]
 
 #### 国際会議
+- Rina Miyata, Koki Horiguchi, Risa Kondo, Yuki Fujiwara, Tomoyuki Kajiwara. <br>
+EhiMeNLP at TSAR 2025 Shared Task Candidate Generation via Iterative Simplification and Reranking by Readability and Semantic Similarity. <br>
+Proceedings of the Fourth Workshop on Text Simplification, Accessibility and Readability (TSAR 2025), pp.217-222, Suzhou, China, November 2025. \[[PDF](https://aclanthology.org/2025.tsar-1.18.pdf)\]
+
 - Risa Kondo, Hiroki Yamauchi, Tomoyuki Kajiwara, Marie Katsurai and Takashi Ninomiya. <br>
   Domain Knowledge Distillation for Multilingual Sentence Encoders in Cross-lingual Sentence Similarity Estimation. <br>
   In Proceedings of the 15th International Conference on Recent Advances in Natural Language Processing (RANLP 2025), pp.572–577, Varna, Bulgaria, September 2025. \[[PDF](https://acl-bg.org/proceedings/2025/RANLP%202025/pdf/2025.ranlp-1.67.pdf)\]
-  
   
 - Risa Kondo, Ayu Teramen, Reon Kajikawa, Koki Horiguchi, Tomoyuki Kajiwara, Takashi Ninomiya, Hideaki Hayashi, Yuta Nakashima, Hajime Nagahara. <br>
 Text Normalization for Sentiment Analysis in Japanese Social Media. <br>
