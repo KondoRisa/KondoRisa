@@ -13,7 +13,7 @@
 #### 国際会議
 - Rina Miyata, Koki Horiguchi, Risa Kondo, Yuki Fujiwara, Tomoyuki Kajiwara. <br>
 EhiMeNLP at TSAR 2025 Shared Task Candidate Generation via Iterative Simplification and Reranking by Readability and Semantic Similarity. <br>
-Proceedings of the Fourth Workshop on Text Simplification, Accessibility and Readability (TSAR 2025), pp.217-222, Suzhou, China, November 2025. \[[PDF](https://aclanthology.org/2025.tsar-1.18.pdf)\]
+In Proceedings of the Fourth Workshop on Text Simplification, Accessibility and Readability (TSAR 2025), pp.217-222, Suzhou, China, November 2025. \[[PDF](https://aclanthology.org/2025.tsar-1.18.pdf)\]
 
 - Risa Kondo, Hiroki Yamauchi, Tomoyuki Kajiwara, Marie Katsurai and Takashi Ninomiya. <br>
   Domain Knowledge Distillation for Multilingual Sentence Encoders in Cross-lingual Sentence Similarity Estimation. <br>
