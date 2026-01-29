@@ -46,7 +46,7 @@ NLP若手の会第20回シンポジウム (YANS2025), September 2025.
 
 - 藤原 有希, 横山 泰知, 大政 裕哉, 近藤 里咲, 梶原 智之, 二宮 崇, 後藤 功雄. <br>
 台本なしテレビ番組の音声データを用いた自動台本生成. <br>
-情報処理学会第86回全国大会, pp.683-684, March 2025. \[[PDF](https://moguranosenshi.sakura.ne.jp/publications/ipsj87-fujiwara.pdf)\]
+情報処理学会第87回全国大会, pp.683-684, March 2025. \[[PDF](https://moguranosenshi.sakura.ne.jp/publications/ipsj87-fujiwara.pdf)\]
 
 - 近藤 里咲, 梶原 智之, 二宮 崇. <br>
 ニューラル単語アライメントに基づく言い換え知識獲得. <br>
