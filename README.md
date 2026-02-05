@@ -32,6 +32,19 @@ English-to-Japanese Multimodal Machine Translation Based on Image-Text Matching 
 In Proceedings of the 3rd Workshop on Advances in Language and Vision Research (ALVR 2024), pp.86-91, Bangkok, Thailand, August 2024. \[[PDF](https://aclanthology.org/2024.alvr-1.7.pdf)\]
 
 #### 国内会議
+
+- 近藤 里咲, 梶原 智之. <br>
+意味とスタイルの分離に基づくスタイル表現学習. <br>
+言語処理学会第32回年次大会, pp.xxx-xxx, March 2026. (to appear)
+
+- 野々村 奏, 福島 啓太, 近藤 里咲, 梶原 智之. <br>
+多言語文埋め込みの意味と言語の分離のための損失関数の分析. <br>
+言語処理学会第32回年次大会, pp.xxx-xxx, March 2026. (to appear)
+
+- 清水 信希, 北原 滉大, 田窪 真大, 近藤 里咲, 西原 大貴, 梶原 智之, 二宮 崇, 後藤 功雄. <br>
+形態素の生起コストを用いた単語分割における固有表現認識の改善. <br>
+情報処理学会第88回全国大会, pp.xxx-xxx, March 2026. (to appear)
+
 - 近藤 里咲, 梶原 智之. <br>
 スタイル表現学習のための意味とスタイルの分離. <br>
 NLP若手の会第20回シンポジウム (YANS2025), September 2025.
