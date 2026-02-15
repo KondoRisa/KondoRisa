@@ -6,6 +6,10 @@
 ### 研究業績
 
 #### 論文誌
+- Weerayut Buaphet, Thanh-Nhi Nguyen, Risa Kondo, Tomoyuki Kajiwara, Yumin Kim, Jimin Lee, Hwanhee Lee, Holy Lovenia, Peerat Limkonchotiwat, Sarana Nutanong, Rob Van der Goot. <br>
+MultiLexNorm++: A Unified Benchmark and a Generative Model for Lexical Normalization for Asian Languages. <br>
+TALLIP, Vol.xx, No.xx, pp.xxx-xxx, 2026. (to appear)
+
 - 近藤 里咲, 梶川 怜恩, 梶原 智之, 二宮 崇. <br>
 スタイル変換による雑談対話へのキャラクタ性の付与. <br>
 情報処理学会論文誌, Vol.65, No.3, pp.657-666, March 2024. \[[PDF](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=233361&item_no=1&page_id=13&block_id=8)\]
