@@ -1,6 +1,6 @@
 ### プロフィール
 - 名前：近藤 里咲（Kondo Risa）
-- 所属：愛媛大学大学院 理工学研究科 [自然言語処理研究室](https://sites.google.com/view/ehime-nlp/) D1
+- 所属：愛媛大学大学院 理工学研究科 [自然言語処理研究室](https://sites.google.com/view/ehime-nlp/) 博士後期課程 1年
 - Email：kondo@ai.cs.ehime-u.ac.jp
 
 ### 研究業績
@@ -111,6 +111,8 @@ JParaCrawl からの大規模日本語言い換え辞書の構築. <br>
 NLP若手の会第18回シンポジウム (YANS2023), August 2023. \[[Poster](http://moguranosenshi.sakura.ne.jp/files/yans2023-kondo.pdf)\]
 
 ### 受賞
+- 2025年度 愛媛大学学長賞
+
 - 第24回情報科学技術フォーラム (FIT2025) FIT奨励賞
   > 近藤 里咲, 寺面 杏優, 堀口 航輝, 梶川 怜恩, 鈴木 陽也, 宮内 裕人, 山内 洋輝, 秋山 和輝, 梶原 智之, 二宮 崇, Chenhui Chu, 武村 紀子, 早志 英朗, 中島 悠太, 長原 一. <br>
   > 日本語SNSのためのテキスト正規化および感情分析のデータセット. <br>
