@@ -1,6 +1,6 @@
 ### プロフィール
 - 名前：近藤 里咲（Kondo Risa）
-- 所属：愛媛大学大学院 理工学研究科 [自然言語処理研究室](https://sites.google.com/view/ehime-nlp/) M2
+- 所属：愛媛大学大学院 理工学研究科 [自然言語処理研究室](https://sites.google.com/view/ehime-nlp/) D1
 - Email：kondo@ai.cs.ehime-u.ac.jp
 
 ### 研究業績
@@ -8,13 +8,18 @@
 #### 論文誌
 - Weerayut Buaphet, Thanh-Nhi Nguyen, Risa Kondo, Tomoyuki Kajiwara, Yumin Kim, Jimin Lee, Hwanhee Lee, Holy Lovenia, Peerat Limkonchotiwat, Sarana Nutanong, Rob Van der Goot. <br>
 MultiLexNorm++: A Unified Benchmark and a Generative Model for Lexical Normalization for Asian Languages. <br>
-TALLIP, Vol.xx, No.xx, pp.xxx-xxx, 2026. (to appear)
+TALLIP, Vol.xx, No.xx, pp.xxx-xxx, 2026. (to appear) \[[PDF](https://arxiv.org/abs/2601.16623)\]
 
 - 近藤 里咲, 梶川 怜恩, 梶原 智之, 二宮 崇. <br>
 スタイル変換による雑談対話へのキャラクタ性の付与. <br>
 情報処理学会論文誌, Vol.65, No.3, pp.657-666, March 2024. \[[PDF](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=233361&item_no=1&page_id=13&block_id=8)\]
 
 #### 国際会議
+
+- Risa Kondo, Seiji Sugiyama, Tomoyuki Kajiwara, Takashi Ninomiya. <br>
+Paraphrase Acquisition via Bilingual Pivoting Based on Neural Word Alignment. <br>
+In Proceedings of the Workshop on Structured Linguistic Data and Evaluation (SLiDE 2026), pp.xxx-xxx, Palma, Mallorca, May 2026. (to appear)
+ 
 - Rina Miyata, Koki Horiguchi, Risa Kondo, Yuki Fujiwara, Tomoyuki Kajiwara. <br>
 EhiMeNLP at TSAR 2025 Shared Task Candidate Generation via Iterative Simplification and Reranking by Readability and Semantic Similarity. <br>
 In Proceedings of the Fourth Workshop on Text Simplification, Accessibility and Readability (TSAR 2025), pp.217-222, Suzhou, China, November 2025. \[[PDF](https://aclanthology.org/2025.tsar-1.18.pdf)\]
@@ -39,11 +44,11 @@ In Proceedings of the 3rd Workshop on Advances in Language and Vision Research (
 
 - 近藤 里咲, 梶原 智之. <br>
 意味とスタイルの分離に基づくスタイル表現学習. <br>
-言語処理学会第32回年次大会, pp.xxx-xxx, March 2026. (to appear)
+言語処理学会第32回年次大会, pp.1860-1864, March 2026. \[[PDF](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/P4-23.pdf)\]
 
 - 野々村 奏, 福島 啓太, 近藤 里咲, 梶原 智之. <br>
 多言語文埋め込みの意味と言語の分離のための損失関数の分析. <br>
-言語処理学会第32回年次大会, pp.xxx-xxx, March 2026. (to appear)
+言語処理学会第32回年次大会, pp.3842-3846, March 2026. \[[PDF](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/P8-20.pdf)\]
 
 - 清水 信希, 北原 滉大, 田窪 真大, 近藤 里咲, 西原 大貴, 梶原 智之, 二宮 崇, 後藤 功雄. <br>
 形態素の生起コストを用いた単語分割における固有表現認識の改善. <br>
