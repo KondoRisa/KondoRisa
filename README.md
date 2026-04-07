@@ -18,7 +18,7 @@ TALLIP, Vol.xx, No.xx, pp.xxx-xxx, 2026. (to appear) \[[PDF](https://arxiv.org/a
 
 - Risa Kondo, Seiji Sugiyama, Tomoyuki Kajiwara, Takashi Ninomiya. <br>
 Paraphrase Acquisition via Bilingual Pivoting Based on Neural Word Alignment. <br>
-In Proceedings of the Workshop on Structured Linguistic Data and Evaluation (SLiDE 2026), pp.xxx-xxx, Palma, Mallorca, May 2026. (to appear)
+In Proceedings of the Workshop on Structured Linguistic Data and Evaluation (SLiDE 2026), pp.161-169, Palma, Mallorca, May 2026. \[[PDF](https://www.slide-workshop.org/book.pdf#page=173)\]
  
 - Rina Miyata, Koki Horiguchi, Risa Kondo, Yuki Fujiwara, Tomoyuki Kajiwara. <br>
 EhiMeNLP at TSAR 2025 Shared Task Candidate Generation via Iterative Simplification and Reranking by Readability and Semantic Similarity. <br>
@@ -52,7 +52,8 @@ In Proceedings of the 3rd Workshop on Advances in Language and Vision Research (
 
 - 清水 信希, 北原 滉大, 田窪 真大, 近藤 里咲, 西原 大貴, 梶原 智之, 二宮 崇, 後藤 功雄. <br>
 形態素の生起コストを用いた単語分割における固有表現認識の改善. <br>
-情報処理学会第88回全国大会, pp.xxx-xxx, March 2026. (to appear)
+情報処理学会第88回全国大会, pp.361-362, March 2026. \[[PDF](https://moguranosenshi.sakura.ne.jp/publications/ipsj88-shimizu.pdf)\]
+
 
 - 近藤 里咲, 梶原 智之. <br>
 スタイル表現学習のための意味とスタイルの分離. <br>
