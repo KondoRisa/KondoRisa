@@ -15,7 +15,6 @@ TALLIP, Vol.xx, No.xx, pp.xxx-xxx, 2026. (to appear) \[[PDF](https://arxiv.org/a
 情報処理学会論文誌, Vol.65, No.3, pp.657-666, March 2024. \[[PDF](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=233361&item_no=1&page_id=13&block_id=8)\]
 
 #### 国際会議
-
 - Risa Kondo, Seiji Sugiyama, Tomoyuki Kajiwara, Takashi Ninomiya. <br>
 Paraphrase Acquisition via Bilingual Pivoting Based on Neural Word Alignment. <br>
 In Proceedings of the Workshop on Structured Linguistic Data and Evaluation (SLiDE 2026), pp.161-169, Palma, Mallorca, May 2026. \[[PDF](https://www.slide-workshop.org/book.pdf#page=174)\]
@@ -41,6 +40,13 @@ English-to-Japanese Multimodal Machine Translation Based on Image-Text Matching 
 In Proceedings of the 3rd Workshop on Advances in Language and Vision Research (ALVR 2024), pp.86-91, Bangkok, Thailand, August 2024. \[[PDF](https://aclanthology.org/2024.alvr-1.7.pdf)\]
 
 #### 国内会議
+- 杉山 誠治, 近藤 里咲, 梶原 智之, 水上 雅博, 西田 京介.  <br>
+タスク指向対話におけるペルソナの影響の検証.  <br>
+人工知能学会第40回全国大会 (JSAI2026), xxx-xxx, June 2026. (to appear)
+
+- 野々村 奏, 福島 啓太, 近藤 里咲, 梶原 智之.  <br>
+多様な多言語文埋め込みに対する意味要素と言語要素の分離.  <br>
+人工知能学会第40回全国大会 (JSAI2026), xxx-xxx, June 2026. (to appear)
 
 - 近藤 里咲, 梶原 智之. <br>
 意味とスタイルの分離に基づくスタイル表現学習. <br>
