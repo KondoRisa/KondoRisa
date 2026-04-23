@@ -18,7 +18,7 @@ TALLIP, Vol.xx, No.xx, pp.xxx-xxx, 2026. (to appear) \[[PDF](https://arxiv.org/a
 
 - Risa Kondo, Seiji Sugiyama, Tomoyuki Kajiwara, Takashi Ninomiya. <br>
 Paraphrase Acquisition via Bilingual Pivoting Based on Neural Word Alignment. <br>
-In Proceedings of the Workshop on Structured Linguistic Data and Evaluation (SLiDE 2026), pp.161-169, Palma, Mallorca, May 2026. \[[PDF](https://www.slide-workshop.org/book.pdf#page=173)\]
+In Proceedings of the Workshop on Structured Linguistic Data and Evaluation (SLiDE 2026), pp.161-169, Palma, Mallorca, May 2026. \[[PDF](https://www.slide-workshop.org/book.pdf#page=174)\]
  
 - Rina Miyata, Koki Horiguchi, Risa Kondo, Yuki Fujiwara, Tomoyuki Kajiwara. <br>
 EhiMeNLP at TSAR 2025 Shared Task Candidate Generation via Iterative Simplification and Reranking by Readability and Semantic Similarity. <br>
