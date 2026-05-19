@@ -15,6 +15,14 @@ TALLIP, Vol.xx, No.xx, pp.xxx-xxx, 2026. (to appear) \[[PDF](https://arxiv.org/a
 情報処理学会論文誌, Vol.65, No.3, pp.657-666, March 2024. \[[PDF](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=233361&item_no=1&page_id=13&block_id=8)\]
 
 #### 国際会議
+- Kanade Nonomura, Keita Fukushima, Risa Kondo, Tomoyuki Kajiwara. <br>
+Disentangling Meaning and Language Components in Diverse Multilingual Sentence Embeddings. <br>
+In Proceedings of the ACL 2026 Student Research Workshop (ACL 2026 SRW), pp.xxx-xxx, San Diego, California, United States, July 2026. (to appear)
+
+- Kanade Nonomura, Keita Fukushima, Risa Kondo, Tomoyuki Kajiwara. <br>
+Mitigating Language Bias in Multilingual Sentence Embeddings for Cross-Lingual Similarity Estimation. <br>
+In Proceedings of the 15th Joint Conference on Lexical and Computational Semantics (*SEM2026), pp.xxx-xxx, San Diego, California, United States, July 2026. (to appear)
+  
 - Risa Kondo, Seiji Sugiyama, Tomoyuki Kajiwara, Takashi Ninomiya. <br>
 Paraphrase Acquisition via Bilingual Pivoting Based on Neural Word Alignment. <br>
 In Proceedings of the Workshop on Structured Linguistic Data and Evaluation (SLiDE 2026), pp.161-169, Palma, Mallorca, May 2026. \[[PDF](https://www.slide-workshop.org/book.pdf#page=174)\]
