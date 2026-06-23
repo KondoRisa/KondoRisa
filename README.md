@@ -50,11 +50,11 @@ In Proceedings of the 3rd Workshop on Advances in Language and Vision Research (
 #### 国内会議
 - 杉山 誠治, 近藤 里咲, 梶原 智之, 水上 雅博, 西田 京介.  <br>
 タスク指向対話におけるペルソナの影響の検証.  <br>
-人工知能学会第40回全国大会 (JSAI2026), xxx-xxx, June 2026. (to appear)
+人工知能学会第40回全国大会 (JSAI2026), 4Yin-B-62, June 2026. (to appear)
 
 - 野々村 奏, 福島 啓太, 近藤 里咲, 梶原 智之.  <br>
 多様な多言語文埋め込みに対する意味要素と言語要素の分離.  <br>
-人工知能学会第40回全国大会 (JSAI2026), xxx-xxx, June 2026. (to appear)
+人工知能学会第40回全国大会 (JSAI2026), 4Yin-B-54, June 2026. (to appear)
 
 - 近藤 里咲, 梶原 智之. <br>
 意味とスタイルの分離に基づくスタイル表現学習. <br>
