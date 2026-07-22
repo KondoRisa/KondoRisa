@@ -57,8 +57,8 @@ In Proceedings of the 3rd Workshop on Advances in Language and Vision Research (
 人工知能学会第40回全国大会 (JSAI2026), 4Yin-B-54, June 2026. (to appear)
 
 - 近藤 里咲, 梶原 智之. <br>
-意味とスタイルの分離に基づくスタイル表現学習. <br>
-言語処理学会第32回年次大会, pp.1860-1864, March 2026. \[[PDF](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/P4-23.pdf)\]
+意味とスタイルの分離に基づくスタイル表現学習. <br> 
+言語処理学会第32回年次大会, pp.1860-1864, March 2026. \[[PDF](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/P4-23.pdf)\] \[[Poster](https://drive.google.com/file/d/1HCRIvXXWZMgvFOTXW2uYqEZGJ6HXRTqz/view?usp=sharing)\]
 
 - 野々村 奏, 福島 啓太, 近藤 里咲, 梶原 智之. <br>
 多言語文埋め込みの意味と言語の分離のための損失関数の分析. <br>
@@ -71,7 +71,7 @@ In Proceedings of the 3rd Workshop on Advances in Language and Vision Research (
 
 - 近藤 里咲, 梶原 智之. <br>
 スタイル表現学習のための意味とスタイルの分離. <br>
-NLP若手の会第20回シンポジウム (YANS2025), September 2025.
+NLP若手の会第20回シンポジウム (YANS2025), September 2025. \[[Poster](https://drive.google.com/file/d/1VIYUReXc7I_SZxybd0sXqf1D0UrXGArm/view?usp=sharing)\]
 
 - 野々村 奏, 近藤 里咲, 梶原 智之. <br>
 多言語文埋め込みの意味要素と言語要素の分離に関する調査. <br>
